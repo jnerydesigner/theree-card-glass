@@ -2,6 +2,8 @@
 
 ## Theree Cards Transparent
 
+![theree card transparent gif animated](https://github.com/jnerydesigner/theree-card-glass/blob/main/images/animated-presentation.gif)
+
 Usamos as seguintes linguagens
 
 - HTML
