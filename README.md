@@ -24,6 +24,10 @@ Usamos as seguintes linguagens
  $ docker run -it --rm -d -p 8080:80 --name name-container -v ~/site-content:/usr/share/nginx/html nginx
 ```
 
+### Installation Vanilla pluguin
+
+- [Vanilla Tilt Pluguin](https://micku7zu.github.io/vanilla-tilt.js/)
+
 ### See Social Medias
 
 - [Linkedin](https://www.linkedin.com/in/jander-nery/)
